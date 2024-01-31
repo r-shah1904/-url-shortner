@@ -1,1 +1,2 @@
 # -url-shortner
+This project is made by me as a part of learning process of backend development. API calls, Authentication, User creation, Database Management, Node JS and Express JS. The project does not have a very appealing front-end with no complex CSS being used. May not work on certain devices as it is not responsive, but it does implement a lot of backend libraries EJS, Mongoose, Express and also use file destructuring to break down the code in readable segments. If you would like to connect with me mail me at : shahrishabh1904gmail.com 
